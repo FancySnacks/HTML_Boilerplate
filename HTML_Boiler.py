@@ -17,7 +17,7 @@ html_content = '''<!DOCTYPE html>
 </head>
 <body>
     <p>Page has been successfully created!</p>
-    <script src="./js/main.js" async defer></script>
+    <script src="./js/main.js" async></script>
 </body>
 </html>'''
 
